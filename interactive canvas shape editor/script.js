@@ -6,7 +6,7 @@
  * COURSE, YEAR, SECTION: BSIT 2B
  * NAME OF SCHOOL: partido state university
  * SEMESTER AND ACADEMIC YEAR: 1st Semester, A.Y. 2024–2025
- * SUBJECT CODE AND TITLE: IT 305 - PF2_EVENT DRIVEN PROGRAMING
+ * SUBJECT CODE AND TITLE: PF2_EVENT DRIVEN PROGRAMING
  * NAME OF SUBJECT INSTRUCTOR: Prof. RJ F. ABIO
  * ============================================================================
  */
