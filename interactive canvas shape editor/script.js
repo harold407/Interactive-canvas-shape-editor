@@ -5,7 +5,7 @@
  * ADDRESS:007 zone 1 salog, goa cam. sur
  * COURSE, YEAR, SECTION: BSIT 2B
  * NAME OF SCHOOL: partido state university
- * SEMESTER AND ACADEMIC YEAR: 2st Semester, A.Y. 2024–2025
+ * SEMESTER AND ACADEMIC YEAR: 2nd Semester, A.Y. 2024–2025
  * SUBJECT CODE AND TITLE: PF2_EVENT DRIVEN PROGRAMING
  * NAME OF SUBJECT INSTRUCTOR: Prof. RJ F. ABIO
  * ============================================================================
